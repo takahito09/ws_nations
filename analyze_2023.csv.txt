@@ -1,0 +1,156 @@
+Research Areas	Record Count	% of 106,107
+Infectious Diseases	40084	37.777
+Public Environmental Occupational Health	23740	22.374
+Respiratory System	22116	20.843
+Science Technology Other Topics	20473	19.295
+Health Care Sciences Services	16651	15.693
+Immunology	15589	14.692
+Pharmacology Pharmacy	15315	14.434
+Psychology	11750	11.074
+General Internal Medicine	11706	11.032
+Biochemistry Molecular Biology	10434	9.833
+Environmental Sciences Ecology	9684	9.127
+Pathology	8785	8.279
+Behavioral Sciences	8292	7.815
+Chemistry	6654	6.271
+Pediatrics	6382	6.015
+Research Experimental Medicine	6095	5.744
+Business Economics	5912	5.572
+Physiology	5505	5.188
+Genetics Heredity	5390	5.080
+Computer Science	5065	4.773
+Cardiovascular System Cardiology	4912	4.629
+Microbiology	4901	4.619
+Neurosciences Neurology	4841	4.562
+Psychiatry	4686	4.416
+Education Educational Research	4670	4.401
+Engineering	4514	4.254
+Mathematical Computational Biology	4474	4.216
+Mathematics	3851	3.629
+Geriatrics Gerontology	3637	3.428
+Sociology	3483	3.283
+Communication	3473	3.273
+Biotechnology Applied Microbiology	3114	2.935
+Virology	3084	2.907
+Social Sciences Other Topics	2943	2.774
+Hematology	2862	2.697
+Radiology Nuclear Medicine Medical Imaging	2655	2.502
+Medical Laboratory Technology	2647	2.495
+Surgery	2534	2.388
+Demography	2493	2.350
+Nutrition Dietetics	2405	2.267
+Oncology	2366	2.230
+Toxicology	2240	2.111
+Endocrinology Metabolism	2202	2.075
+Nursing	2019	1.903
+Reproductive Biology	1977	1.863
+Instruments Instrumentation	1975	1.861
+Obstetrics Gynecology	1826	1.721
+Cell Biology	1822	1.717
+Gastroenterology Hepatology	1785	1.682
+Public Administration	1564	1.474
+Government Law	1532	1.444
+Social Issues	1407	1.326
+Geography	1388	1.308
+Agriculture	1369	1.290
+Urology Nephrology	1339	1.262
+Biophysics	1297	1.222
+Food Science Technology	1155	1.089
+Information Science Library Science	1149	1.083
+Dermatology	1119	1.055
+Critical Care Medicine	1077	1.015
+Physics	1059	0.998
+Family Studies	1040	0.980
+Emergency Medicine	1019	0.960
+Orthopedics	1017	0.958
+Rheumatology	986	0.929
+Life Sciences Biomedicine Other Topics	954	0.899
+Telecommunications	893	0.842
+Transplantation	885	0.834
+Rehabilitation	843	0.794
+Zoology	803	0.757
+Dentistry Oral Surgery Medicine	800	0.754
+Medical Informatics	762	0.718
+Materials Science	754	0.711
+Ophthalmology	754	0.711
+Sport Sciences	747	0.704
+Anesthesiology	659	0.621
+Polymer Science	613	0.578
+Allergy	595	0.561
+Meteorology Atmospheric Sciences	565	0.532
+Arts Humanities Other Topics	564	0.532
+Otorhinolaryngology	529	0.499
+Women S Studies	508	0.479
+Film Radio Television	507	0.478
+Substance Abuse	505	0.476
+Social Work	503	0.474
+Water Resources	486	0.458
+Transportation	461	0.434
+Energy Fuels	460	0.434
+Evolutionary Biology	459	0.433
+Veterinary Sciences	437	0.412
+Biomedical Social Sciences	421	0.397
+Plant Sciences	408	0.385
+Anatomy Morphology	400	0.377
+Parasitology	381	0.359
+Developmental Biology	375	0.353
+Automation Control Systems	354	0.334
+Spectroscopy	342	0.322
+Criminology Penology	331	0.312
+Tropical Medicine	326	0.307
+Anthropology	301	0.284
+Area Studies	288	0.271
+Urban Studies	280	0.264
+Integrative Complementary Medicine	276	0.260
+Linguistics	275	0.259
+Legal Medicine	274	0.258
+Religion	273	0.257
+Medical Ethics	270	0.254
+Operations Research Management Science	262	0.247
+International Relations	261	0.246
+Imaging Science Photographic Technology	258	0.243
+Robotics	249	0.235
+Biodiversity Conservation	244	0.230
+Physical Sciences Other Topics	244	0.230
+Women Apos S Studies	225	0.212
+Microscopy	199	0.188
+Geology	177	0.167
+Development Studies	176	0.166
+Construction Building Technology	172	0.162
+History	163	0.154
+Crystallography	156	0.147
+Cultural Studies	153	0.144
+Ethnic Studies	140	0.132
+Philosophy	134	0.126
+Mycology	130	0.123
+Electrochemistry	129	0.122
+Audiology Speech Language Pathology	121	0.114
+Marine Freshwater Biology	107	0.101
+Mathematical Methods In Social Sciences	106	0.100
+Acoustics	100	0.094
+Optics	94	0.089
+History Philosophy Of Science	90	0.085
+Forestry	80	0.075
+Remote Sensing	76	0.072
+Physical Geography	73	0.069
+Geochemistry Geophysics	61	0.057
+Mechanics	61	0.057
+Literature	59	0.056
+Fisheries	51	0.048
+Music	43	0.041
+Oceanography	43	0.041
+Architecture	42	0.040
+Art	37	0.035
+Asian Studies	37	0.035
+Nuclear Science Technology	37	0.035
+Thermodynamics	37	0.035
+Entomology	24	0.023
+Theater	15	0.014
+Mining Mineral Processing	11	0.010
+Archaeology	9	0.008
+Metallurgy Metallurgical Engineering	8	0.008
+Dance	7	0.007
+Astronomy Astrophysics	3	0.003
+Classics	1	0.001
+Paleontology	1	0.001
+3,892 record(s) (3.668%) do not contain data in the field being analyzed
